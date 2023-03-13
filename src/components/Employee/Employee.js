@@ -135,7 +135,7 @@ const handleDeleteTask = (indicator) => {
                 className="block text-gray-700 font-bold mb-2"
                 forhtml="description"
                 >
-                E-mail:
+                Description:
               </label>
               <input
                 className="shadow appearance-none border rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline"
@@ -152,7 +152,7 @@ const handleDeleteTask = (indicator) => {
                 className="block text-gray-700 font-bold mb-2"
                 forhtml="assignee"
                 >
-                Phone number:
+                Assignee:
               </label>
               <input
                 className="shadow appearance-none border rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline"
@@ -169,7 +169,7 @@ const handleDeleteTask = (indicator) => {
                 className="block text-gray-700 font-bold mb-2"
                 forhtml="dueDate"
                 >
-                Date of birth:
+                Due Date:
               </label>
               <input
                 className="shadow appearance-none border rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline"
